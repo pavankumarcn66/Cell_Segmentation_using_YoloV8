@@ -1,4 +1,4 @@
-# End-to-end-Cell-Segmentation-Using-Yolo-v8
+# Cell-Segmentation-Using-Yolo-v8
 
 ## Workflows
 
@@ -15,7 +15,7 @@
 Clone the repository
 
 ```bash
-https://github.com/entbappy/End-to-end-Cell-Segmentation-Using-Yolo-v8
+https://github.com/pavankumarcn66/Cell_Segmentation_using_YoloV8.git
 ```
 ### STEP 01- Create a conda environment after opening the repository
 
